@@ -1,0 +1,61 @@
+* Heading 1
+** Heading 2
+*** Heading 3
+**** Heading 4
+***** Heading 5
+****** Heading 6
+
+Text formatting:
+*Bold text*
+/Italic text/
+_Underlined text_
++Strikethrough text+
+=Verbatim text=
+~Code text~
+
+Links and Images:
+[[https://google.com][Link to Google]]
+
+Internet hosted images:
+[[https://images.unsplash.com/photo-1695653422715-991ec3a0db7?][file:sunset.jpg]]
+[[https://images.unsplash.com/photo-1695653422715-991ec3a0db7?w=800&h=500][file:sunset-params.jpg]]
+
+Local images:
+[[file:./images/local.png]]
+[[file:./images/logo.svg]]
+
+Code block:
+#+BEGIN_SRC python
+def hello():
+    print("Hello World!")
+#+END_SRC
+
+Tables:
+| Header 1 | Header 2 |
+|----------+----------|
+| Cell 1   | Cell 2   |
+
+Lists:
+- Unordered
+- List
+  - Nested
+  - Items
+
+1. Ordered
+2. List
+   1. Nested
+   2. Items
+
+#+BEGIN_QUOTE
+Blockquote text
+Multiple lines
+#+END_QUOTE
+
+#+BEGIN_HTML
+<div align="center">
+  <h3>Centered heading</h3>
+  <img src="https://images.unsplash.com/photo-1695653422715-991ec3a0db7?" width="300" />
+</div>
+#+END_HTML
+
+-----
