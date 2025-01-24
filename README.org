@@ -17,8 +17,8 @@ Links and Images:
 [[https://google.com][Link to Google]]
 
 Internet hosted images:
-[[file:https://images.unsplash.com/photo-1495616811223-4d98c6e9c869]]
-[[file:https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=400]]
+[[file:https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?fm=jpg&w=1200]]
+[[file:https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?fm=jpg&w=400]]
 
 Local images:
 [[file:./images/local.png]]
